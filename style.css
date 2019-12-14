@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: lightskyblue;
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
