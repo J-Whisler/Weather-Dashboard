@@ -26,5 +26,22 @@
     justify-content: space-evenly;
     align-items: center;
     text-align: center;
+    margin-top: 50px;
 }
 
+.hide {
+    display: none;
+}
+
+.city-input {
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin: auto 120px;
+}
+
+.search-Btn {
+    height: 38px;
+}
