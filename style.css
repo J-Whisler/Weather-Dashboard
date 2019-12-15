@@ -20,3 +20,11 @@
 .card {
     display: inline-block;
 }
+
+.card-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
